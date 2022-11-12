@@ -1,14 +1,26 @@
 import _ from 'lodash';
 import './style.css';
 
+/*=============== CHANGE BACKGROUND HEADER ===============*/
 
-function component() {
-    const element = document.createElement('div');
 
-    element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-    element.classList.add('hello');
-  
-    return element;
-  }
-  
-  document.body.appendChild(component());
+/*=============== SERVICES MODAL ===============*/
+
+
+/*=============== MIXITUP FILTER PORTFOLIO ===============*/
+
+
+/* Link active work */ 
+
+
+/*=============== SWIPER TESTIMONIAL ===============*/
+
+
+/*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
+
+
+/*=============== LIGHT DARK THEME ===============*/ 
+
+
+/*=============== SCROLL REVEAL ANIMATION ===============*/
+
