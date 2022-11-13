@@ -1,14 +1,32 @@
 import _ from 'lodash';
 import './style.css';
 
+/*=============== CHANGE BACKGROUND HEADER ===============*/
+const scrollHeader = () =>{
+    const header = document.getElementById('header')
+    // When the scroll is greater than 50 viewport height, add the scroll-header class to the header tag
+    this.scrollY >= 50 ? header.classList.add('scroll-header') 
+                       : header.classList.remove('scroll-header')
+}
+window.addEventListener('scroll', scrollHeader)
 
-function component() {
-    const element = document.createElement('div');
+/*=============== SERVICES MODAL ===============*/
 
-    element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-    element.classList.add('hello');
-  
-    return element;
-  }
-  
-  document.body.appendChild(component());
+
+/*=============== MIXITUP FILTER PORTFOLIO ===============*/
+
+
+/* Link active work */ 
+
+
+/*=============== SWIPER TESTIMONIAL ===============*/
+
+
+/*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
+
+
+/*=============== LIGHT DARK THEME ===============*/ 
+
+
+/*=============== SCROLL REVEAL ANIMATION ===============*/
+
