@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-[Live Demo Link]()
+[Live Demo Link](https://jonathanmunamire.github.io/My-Portfolio/dist/)
 
 ## Create your Own Webpack Template
 
