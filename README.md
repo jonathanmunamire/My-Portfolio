@@ -1,6 +1,6 @@
 # Portfolio
 
-> Project to Display List of Books
+> Project to Display a compilation of my Skills, my works and my projects
 
 ## Built With
 
