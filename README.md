@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
     Clone this repository
-    git clone https://github.com/jonathanmunamire/Webpack.git
+    git clone https://github.com/jonathanmunamire/My-Portfolio.git
 
 ### Install
 
